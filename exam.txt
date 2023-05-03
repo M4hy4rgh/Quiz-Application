@@ -1,0 +1,25 @@
+What is the capital of the United States?,New York,Washington DC,Los Angeles,Chicago
+What is the capital of the United Kingdom?,London,Manchester,Liverpool,Birmingham
+What is the capital of the United Arab Emirates?,Dubai,Abu Dhabi,Sharjah,Ajman
+What is the capital of Iran?,Tehran,Sistan Baloochestan,Khorasan Razavi,Bandar Abbas
+What is the capital of the Mexico?,Mexico City,Ankara,Tulum,Mexico Island
+Which city can you find the Liberty Bell?,Philadelphia,Washington D.C,Boston,Manhattan
+What is the rarest blood type?,AB-Negative,O,A,B
+Which U.S. state is known as the sunflower state?,Kansas,Florida,California,Maine
+How many bones are there in the human body?,206,205,201,209
+What is Shakespeare’s shortest tragedy?,Macbeth, Hamlet,Romeo & Juliet,Othello
+How many hearts does an octopus have?,3,2,1,4
+Which social media platform came out in 2003?,Myspace,Twitter,Facebook,Tumblr
+Which planet in our solar system is the largest?,Jupiter,Saturn,Neptune,Earth
+Who painted the Sistine Chapel ceiling?,Michelangelo,Picasso,Da Vinci,Van Gogh
+Which ocean is the largest?,Pacific,Indian,Atlantic,Arctic
+Which New York City building is the tallest?,One World Trade Center,Empire State Building,Bank of America Tower,Statue of Liberty
+Which country gifted the Statue of Liberty to the U.S.?,France,Germany,China,Italy
+Who painted the Mona Lisa?,da Vinci,Van Gogh,Picasso,Monet
+What is Sodium Chloride?,Salt,Sugar,Chlorine,Bleach
+The movie "The Social Network" is about which social media platform?,Facebook,Myspace,Instagram,Twitter
+What is the longest river in the world?,Nile,Amazon,Congo,Hudson
+Which city is known as the City of Love?,Paris,Rome,Barcelona,New York City
+How many elements are there on the periodic table?,118,120,143,112
+
+
